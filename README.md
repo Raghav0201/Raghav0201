@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raghav Elumalai</h1>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNmd3Fka292NHhrNGg2YzRzN3N0Y3lreW90YWJjdWx2a2d2ODF5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Js1zM9Ntw5Whwvtm0B/giphy.gif" width="85%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-7b2a7d3f-c23b-4a4d-a8b8-6d06f7c8d4f3.gif" width="100%"/>
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer;Frappe+%26+ERPNext+Developer;Full+Stack+Developer;Python+%7C+JavaScript+%7C+ERP+Solutions" />
