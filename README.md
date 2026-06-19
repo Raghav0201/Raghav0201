@@ -10,17 +10,17 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-* 💼 Software Developer Intern at **Vintrosys**
-* 🔭 Currently working on **Frappe & ERPNext Customization**
-* 🌱 Learning **Advanced Full Stack Development**
-* 💡 Interested in **ERP, Automation & Scalable Systems**
-* ⚡ Love building real-world software solutions
+*  Software Developer Intern at **Vintrosys**
+*  Currently working on **Frappe & ERPNext Customization**
+*  Learning **Advanced Full Stack Development**
+*  Interested in **ERP, Automation & Scalable Systems**
+*  Love building real-world software solutions
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -35,7 +35,7 @@
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/raghav-elumalai-17668626b">
@@ -50,10 +50,6 @@
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
   </a>
 </p>
-
----
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer;Frappe+Developer;ERPNext+Developer" />
 
 ---
 
