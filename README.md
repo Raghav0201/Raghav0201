@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Raghav Elumalai</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="90%">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="90%">
 </p>
-
 
 
 <p align="center">
