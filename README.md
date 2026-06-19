@@ -49,9 +49,10 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contributions
 
-![snake gif](https://github.com/Raghav0201/Raghav0201/blob/output/github-contribution-grid-snake.svg)
+<img src="https://ghchart.rshah.org/Raghav0201" />
+
 
 ---
 
