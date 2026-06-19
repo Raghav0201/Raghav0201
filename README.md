@@ -7,10 +7,9 @@
 ---
 
 <p align="center">
-
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF"/>
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-7b2a7d3f-c23b-4a4d-a8b8-6d06f7c8d4f3.gif" width="100%">
 </p>
+
 
 ---
 
