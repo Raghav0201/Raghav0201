@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Raghav Elumalai</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer;Frappe+%26+ERPNext+Developer;Full+Stack+Developer;Python+%7C+JavaScript+%7C+ERP+Solutions" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-7b2a7d3f-c23b-4a4d-a8b8-6d06f7c8d4f3.gif" width="90%">
 </p>
 
----
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-7b2a7d3f-c23b-4a4d-a8b8-6d06f7c8d4f3.gif" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer;Frappe+%26+ERPNext+Developer;Full+Stack+Developer;Python+%7C+JavaScript+%7C+ERP+Solutions" />
 </p>
-
 
 ---
 
