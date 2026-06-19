@@ -49,10 +49,7 @@
 
 ---
 
-## 📈 Contributions
-
-<img src="https://ghchart.rshah.org/Raghav0201" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer;Frappe+Developer;ERPNext+Developer" />
 
 ---
 
