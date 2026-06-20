@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raghav Elumalai</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-</p>
-
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer;Frappe+%26+ERPNext+Developer;Full+Stack+Developer;Python+%7C+JavaScript+%7C+ERP+Solutions" />
 </p>
 
